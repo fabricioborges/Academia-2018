@@ -1,0 +1,6 @@
+c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Domain\bin\Debug\DonaLaura.Domain.dll
+c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Domain\bin\Debug\DonaLaura.Domain.pdb
+c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Domain\obj\Debug\DonaLaura.Domain.csprojResolveAssemblyReference.cache
+c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Domain\obj\Debug\DonaLaura.Domain.csproj.CoreCompileInputs.cache
+c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Domain\obj\Debug\DonaLaura.Domain.dll
+c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Domain\obj\Debug\DonaLaura.Domain.pdb
