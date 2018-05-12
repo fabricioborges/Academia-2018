@@ -1,0 +1,10 @@
+c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Infra.Data\bin\Debug\DonaLaura.Infra.Data.dll
+c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Infra.Data\bin\Debug\DonaLaura.Infra.Data.pdb
+c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Infra.Data\bin\Debug\DonaLaura.Domain.dll
+c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Infra.Data\bin\Debug\DonaLaura.Domain.pdb
+c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Infra.Data\obj\Debug\DonaLaura.Infra.Data.csprojResolveAssemblyReference.cache
+c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Infra.Data\obj\Debug\DonaLaura.Infra.Data.csproj.CoreCompileInputs.cache
+c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Infra.Data\obj\Debug\DonaLaura.Infra.Data.dll
+c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Infra.Data\obj\Debug\DonaLaura.Infra.Data.pdb
+c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Infra.Data\bin\Debug\DonaLaura.Infra.dll
+c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Infra.Data\bin\Debug\DonaLaura.Infra.pdb
