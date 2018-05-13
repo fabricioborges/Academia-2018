@@ -79,6 +79,10 @@
       <Project>{5EB1B6D0-D229-4792-B035-095872690686}</Project>
       <Name>DonaLaura.Infra.Data</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DonaLaura.Infra\DonaLaura.Infra.csproj">
+      <Project>{3E179476-A541-494B-87EB-97157D66E292}</Project>
+      <Name>DonaLaura.Infra</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

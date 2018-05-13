@@ -1,4 +1,5 @@
 ﻿using DonaLaura.Domain.Features;
+using DonaLaura.Infra;
 using DonaLaura.Infra.Data.Features;
 using FluentAssertions;
 using NUnit.Framework;
@@ -18,7 +19,7 @@ namespace DonaLaura.Testes.Infra
     
 
         [SetUp]
-        public void ProdutoRepository_Set()
+        public void VendaRepository_Set()
         {
             _vendaSqlRepository = new VendaSqlRepository();
             _venda = new Venda()
@@ -26,7 +27,7 @@ namespace DonaLaura.Testes.Infra
                 Lucro = 5.00,
                 Quantidade = 5
             };
-            
+            BaseSqlTest.SeedDatabaseVenda();
         }
 
 

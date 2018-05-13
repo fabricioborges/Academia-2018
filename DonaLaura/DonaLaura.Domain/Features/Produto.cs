@@ -40,7 +40,11 @@ namespace DonaLaura.Domain.Features
         }
 
 
-
+        public double LucroVenda(double lucro)
+        {
+            lucro = PrecoVenda - PrecoCusto;
+            return lucro;
+        }
 
     }
 }

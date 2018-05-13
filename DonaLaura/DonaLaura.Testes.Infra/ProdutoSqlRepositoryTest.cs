@@ -1,4 +1,5 @@
 ﻿using DonaLaura.Domain.Features;
+using DonaLaura.Infra;
 using DonaLaura.Infra.Data.Features;
 using FluentAssertions;
 using NUnit.Framework;
@@ -30,7 +31,7 @@ namespace DonaLaura.Testes.Infra
                 PrecoCusto = 10.00,
                 PrecoVenda = 15.00
             };
-
+            BaseSqlTest.SeedDatabaseProduto();
         }
 
         [Test]
@@ -54,6 +55,7 @@ namespace DonaLaura.Testes.Infra
             _produto.Nome = "Sabonete";
             _produto.Id = 1;
             _produtoSqlRepository.Update(_produto);
+
 
         }
 

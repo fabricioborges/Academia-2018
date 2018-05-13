@@ -1,4 +1,5 @@
 ﻿using DonaLaura.Domain.Features;
+using DonaLaura.Infra;
 using DonaLaura.Infra.Data.Features;
 using FluentAssertions;
 using NUnit.Framework;
@@ -26,7 +27,7 @@ namespace DonaLaura.Testes.Infra
             {
                 Nome = "Fabricio"
             };
-
+            BaseSqlTest.SeedDatabaseCliente();
         }
 
         [Test]

@@ -1,0 +1,84 @@
+12/05/2018 16:01:35	Este log contém informações sobre a operação do esquema importado no projeto 'Database' no computador 'DESKTOP-SV73K9G' pelo usuário 'Fabricio'.
+12/05/2018 16:01:36	A importação do esquema de banco de dados foi iniciada.
+12/05/2018 16:01:43	Coletando credenciais do banco de dados
+12/05/2018 16:01:43	Coletando opções de banco de dados
+12/05/2018 16:01:43	Coletando usuários
+12/05/2018 16:01:43	Coletando funções
+12/05/2018 16:01:43	Coletando funções de aplicativo
+12/05/2018 16:01:43	Coletando associações de função
+12/05/2018 16:01:43	Coletando grupos de arquivos
+12/05/2018 16:01:43	Coletando catálogos de texto completo
+12/05/2018 16:01:43	Coletando assemblies
+12/05/2018 16:01:43	Coletando certificados
+12/05/2018 16:01:43	Coletando chaves assimétricas
+12/05/2018 16:01:43	Coletando chaves simétricas
+12/05/2018 16:01:43	Coletando chaves simétricas criptografadas
+12/05/2018 16:01:43	Coletando esquemas
+12/05/2018 16:01:43	Coletando coleções de esquema XML
+12/05/2018 16:01:43	Coletando tipos de dados definidos pelo usuário
+12/05/2018 16:01:43	Coletando tipos definidos pelo usuário
+12/05/2018 16:01:43	Coletando tipos de tabela
+12/05/2018 16:01:43	Coletando chaves exclusivas para tipos de tabela
+12/05/2018 16:01:43	Coletando chaves primárias para tipos de tabela
+12/05/2018 16:01:43	Reunindo índices para tipos de tabela
+12/05/2018 16:01:43	Coletando restrições de verificação para tipos de tabela
+12/05/2018 16:01:43	Coletando restrições padrão para tipos de tabela
+12/05/2018 16:01:43	Coletando funções de partição
+12/05/2018 16:01:43	Coletando esquemas de partição
+12/05/2018 16:01:43	Coletando funções
+12/05/2018 16:01:43	Coletando funções criptografadas
+12/05/2018 16:01:43	Coletando agregações
+12/05/2018 16:01:43	Coletando procedimentos
+12/05/2018 16:01:43	Coletando procedimentos criptografados
+12/05/2018 16:01:43	Coletando tabelas
+12/05/2018 16:01:43	Coletando chaves primárias
+12/05/2018 16:01:43	Coletando restrições exclusivas
+12/05/2018 16:01:43	Coletando chaves estrangeiras
+12/05/2018 16:01:43	Coletando restrições padrão
+12/05/2018 16:01:43	Coletando restrições de verificação
+12/05/2018 16:01:43	Coletando exibições
+12/05/2018 16:01:43	Coletando exibições criptografadas
+12/05/2018 16:01:43	Coletando índices
+12/05/2018 16:01:43	Coletando estatísticas
+12/05/2018 16:01:43	Coletando listas de palavras irrelevantes de índice de texto completo
+12/05/2018 16:01:43	Coletando listas de propriedades de pesquisa
+12/05/2018 16:01:43	Coletando propriedades de pesquisa
+12/05/2018 16:01:43	Coletando índices de texto completo
+12/05/2018 16:01:43	Coletando índices de repositório de coluna
+12/05/2018 16:01:43	Coletando índices espaciais
+12/05/2018 16:01:43	Coletando índices XML
+12/05/2018 16:01:43	Reunindo índices XML Seletivos
+12/05/2018 16:01:43	Coletando gatilhos criptografados
+12/05/2018 16:01:43	Coletando gatilhos
+12/05/2018 16:01:45	Coletando gatilhos ddl criptografados e clr
+12/05/2018 16:01:45	Coletando gatilhos ddl
+12/05/2018 16:01:45	Coletando sinônimos
+12/05/2018 16:01:45	Coletando padrões
+12/05/2018 16:01:45	Coletando ligações uddt de restrições de dados
+12/05/2018 16:01:45	Coletando regras
+12/05/2018 16:01:45	Coletando ligações uddt de restrições de dados
+12/05/2018 16:01:45	Coletando tipos de mensagem
+12/05/2018 16:01:45	Coletando filas
+12/05/2018 16:01:45	Coletando contratos
+12/05/2018 16:01:45	Coletando serviços
+12/05/2018 16:01:45	Coletando notificações de eventos
+12/05/2018 16:01:45	Coletando ligações de serviço remoto
+12/05/2018 16:01:45	Coletando prioridades do agente
+12/05/2018 16:01:45	Coletando assinaturas
+12/05/2018 16:01:45	Coletando opções de compactação de dados
+12/05/2018 16:01:45	Coletando tipos de sequência
+12/05/2018 16:01:45	Reunindo as políticas de segurança
+12/05/2018 16:01:45	Coletar chaves de criptografia de coluna
+12/05/2018 16:01:45	Coletando chaves mestre de coluna
+12/05/2018 16:01:45	Coletando fontes de dados externas
+12/05/2018 16:01:45	Coletando formatos de arquivo externo
+12/05/2018 16:01:45	Coletando tabelas externas
+12/05/2018 16:01:45	Coletando propriedades estendidas
+12/05/2018 16:01:45	Coletando credenciais
+12/05/2018 16:01:45	Coletando logons
+12/05/2018 16:01:45	Coletando auditorias de servidor
+12/05/2018 16:01:48	Examinando projeto para elementos duplicados
+12/05/2018 16:01:48	Processamento de elementos duplicados concluído
+12/05/2018 16:01:48	Importação do banco de dados concluída.
+12/05/2018 16:01:48	Um resumo da importação foi salvo no seguinte local: C:\Users\fabri\Source\Repos\DonaLaura\Database\Importar Logs de Esquema\Database_20180512070135.log.
+12/05/2018 16:01:48	Clique em Concluir para continuar...
