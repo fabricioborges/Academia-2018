@@ -44,6 +44,7 @@
     <Compile Include="Features\Emprestimos\Emprestimo.cs" />
     <Compile Include="Features\Emprestimos\EmprestimoClienteInvalidoException.cs" />
     <Compile Include="Features\Emprestimos\EmprestimoLivroInvalidoException.cs" />
+    <Compile Include="Features\Emprestimos\IEmprestimoRepository.cs" />
     <Compile Include="Features\Livros\AutorInvalidoException.cs" />
     <Compile Include="Features\Livros\ILivroRepository.cs" />
     <Compile Include="Features\Livros\Livro.cs" />

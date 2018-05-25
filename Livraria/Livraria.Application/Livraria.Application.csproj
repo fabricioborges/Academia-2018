@@ -40,14 +40,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Features\Emprestimos\EmprestimoService.cs" />
     <Compile Include="Features\Livros\ILivroService.cs" />
     <Compile Include="Features\Livros\LivroService.cs" />
     <Compile Include="Interfaces\IService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Features\Emprestimos\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\Livraria.Domain\Livraria.Domain.csproj">
       <Project>{339780B5-DB86-4515-AE97-2B2A7399606F}</Project>

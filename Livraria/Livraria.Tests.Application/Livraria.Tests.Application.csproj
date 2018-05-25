@@ -71,15 +71,14 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Features\Emprestimos\EmprestimoServiceTest.cs" />
     <Compile Include="Features\Livros\LivroServiceTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Features\Emprestimos\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\Livraria.Application\Livraria.Application.csproj">
       <Project>{7828DB39-E8B3-4C79-9F73-DBE286F5BDE3}</Project>
