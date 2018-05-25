@@ -1,0 +1,16 @@
+C:\Users\fabri\Source\Repos\Livraria\Livraria.Tests.Application\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\fabri\Source\Repos\Livraria\Livraria.Tests.Application\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\fabri\Source\Repos\Livraria\Livraria.Tests.Application\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\fabri\Source\Repos\Livraria\Livraria.Tests.Application\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\fabri\Source\Repos\Livraria\Livraria.Tests.Application\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\fabri\Source\Repos\Livraria\Livraria.Tests.Application\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\fabri\Source\Repos\Livraria\Livraria.Tests.Application\bin\Debug\Livraria.Tests.Application.dll
+C:\Users\fabri\Source\Repos\Livraria\Livraria.Tests.Application\bin\Debug\Livraria.Tests.Application.pdb
+C:\Users\fabri\Source\Repos\Livraria\Livraria.Tests.Application\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\fabri\Source\Repos\Livraria\Livraria.Tests.Application\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\fabri\Source\Repos\Livraria\Livraria.Tests.Application\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\fabri\Source\Repos\Livraria\Livraria.Tests.Application\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\fabri\Source\Repos\Livraria\Livraria.Tests.Application\obj\Debug\Livraria.Tests.Application.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Source\Repos\Livraria\Livraria.Tests.Application\obj\Debug\Livraria.Tests.Application.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Source\Repos\Livraria\Livraria.Tests.Application\obj\Debug\Livraria.Tests.Application.dll
+C:\Users\fabri\Source\Repos\Livraria\Livraria.Tests.Application\obj\Debug\Livraria.Tests.Application.pdb
