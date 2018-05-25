@@ -45,10 +45,12 @@
     <Compile Include="Features\Emprestimos\EmprestimoClienteInvalidoException.cs" />
     <Compile Include="Features\Emprestimos\EmprestimoLivroInvalidoException.cs" />
     <Compile Include="Features\Livros\AutorInvalidoException.cs" />
+    <Compile Include="Features\Livros\ILivroRepository.cs" />
     <Compile Include="Features\Livros\Livro.cs" />
     <Compile Include="Features\Livros\TemaInvalidoException.cs" />
     <Compile Include="Features\Livros\TituloInvalidoException.cs" />
     <Compile Include="Features\Livros\VolumeInvalidoException.cs" />
+    <Compile Include="Interfaces\IRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

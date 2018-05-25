@@ -4,3 +4,11 @@ C:\Users\fabri\Source\Repos\Livraria\Livraria.Application\obj\Debug\Livraria.App
 C:\Users\fabri\Source\Repos\Livraria\Livraria.Application\obj\Debug\Livraria.Application.csproj.CoreCompileInputs.cache
 C:\Users\fabri\Source\Repos\Livraria\Livraria.Application\obj\Debug\Livraria.Application.dll
 C:\Users\fabri\Source\Repos\Livraria\Livraria.Application\obj\Debug\Livraria.Application.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Application\bin\Debug\Livraria.Application.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Application\bin\Debug\Livraria.Application.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Application\bin\Debug\Livraria.Domain.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Application\bin\Debug\Livraria.Domain.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Application\obj\Debug\Livraria.Application.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Application\obj\Debug\Livraria.Application.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Application\obj\Debug\Livraria.Application.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Application\obj\Debug\Livraria.Application.pdb

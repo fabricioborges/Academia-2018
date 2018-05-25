@@ -4,3 +4,9 @@ C:\Users\fabri\Source\Repos\Livraria\Livraria.Domain\obj\Debug\Livraria.Domain.c
 C:\Users\fabri\Source\Repos\Livraria\Livraria.Domain\obj\Debug\Livraria.Domain.csproj.CoreCompileInputs.cache
 C:\Users\fabri\Source\Repos\Livraria\Livraria.Domain\obj\Debug\Livraria.Domain.dll
 C:\Users\fabri\Source\Repos\Livraria\Livraria.Domain\obj\Debug\Livraria.Domain.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Domain\bin\Debug\Livraria.Domain.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Domain\bin\Debug\Livraria.Domain.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Domain\obj\Debug\Livraria.Domain.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Domain\obj\Debug\Livraria.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Domain\obj\Debug\Livraria.Domain.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Domain\obj\Debug\Livraria.Domain.pdb
