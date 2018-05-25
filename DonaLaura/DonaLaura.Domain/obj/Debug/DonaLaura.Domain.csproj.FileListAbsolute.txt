@@ -4,3 +4,9 @@ c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Domain\obj\Debug\DonaLaura.Domai
 c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Domain\obj\Debug\DonaLaura.Domain.csproj.CoreCompileInputs.cache
 c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Domain\obj\Debug\DonaLaura.Domain.dll
 c:\users\fabri\Source\Repos\DonaLaura\DonaLaura.Domain\obj\Debug\DonaLaura.Domain.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\DonaLaura\DonaLaura.Domain\bin\Debug\DonaLaura.Domain.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\DonaLaura\DonaLaura.Domain\bin\Debug\DonaLaura.Domain.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\DonaLaura\DonaLaura.Domain\obj\Debug\DonaLaura.Domain.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Desktop\Academia-NDD\Academia\DonaLaura\DonaLaura.Domain\obj\Debug\DonaLaura.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\Academia-NDD\Academia\DonaLaura\DonaLaura.Domain\obj\Debug\DonaLaura.Domain.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\DonaLaura\DonaLaura.Domain\obj\Debug\DonaLaura.Domain.pdb

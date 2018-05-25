@@ -6,3 +6,11 @@ c:\users\fabri\Source\Repos\DonaLaura\DonaLauraApplication\obj\Debug\DonaLauraAp
 c:\users\fabri\Source\Repos\DonaLaura\DonaLauraApplication\obj\Debug\DonaLauraApplication.csproj.CoreCompileInputs.cache
 c:\users\fabri\Source\Repos\DonaLaura\DonaLauraApplication\obj\Debug\DonaLauraApplication.dll
 c:\users\fabri\Source\Repos\DonaLaura\DonaLauraApplication\obj\Debug\DonaLauraApplication.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\DonaLaura\DonaLauraApplication\bin\Debug\DonaLauraApplication.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\DonaLaura\DonaLauraApplication\bin\Debug\DonaLauraApplication.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\DonaLaura\DonaLauraApplication\bin\Debug\DonaLaura.Domain.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\DonaLaura\DonaLauraApplication\bin\Debug\DonaLaura.Domain.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\DonaLaura\DonaLauraApplication\obj\Debug\DonaLauraApplication.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Desktop\Academia-NDD\Academia\DonaLaura\DonaLauraApplication\obj\Debug\DonaLauraApplication.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\Academia-NDD\Academia\DonaLaura\DonaLauraApplication\obj\Debug\DonaLauraApplication.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\DonaLaura\DonaLauraApplication\obj\Debug\DonaLauraApplication.pdb
