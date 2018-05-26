@@ -14,4 +14,11 @@
     <Property Name="ParentElementType" Value="SqlTable" />
     <Property Name="NewName" Value="Id_emprestimo" />
   </Operation>
+  <Operation Name="Rename Refactor" Key="42faef20-f342-4203-8c75-ac40d2317d47" ChangeDateTime="05/26/2018 18:11:50" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[TB_Emprestimos].[Cliente_id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[TB_Emprestimos]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Livro_id" />
+  </Operation>
 </Operations>

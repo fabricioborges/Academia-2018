@@ -4,3 +4,9 @@ C:\Users\fabri\Source\Repos\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infr
 C:\Users\fabri\Source\Repos\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.csproj.CoreCompileInputs.cache
 C:\Users\fabri\Source\Repos\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.dll
 C:\Users\fabri\Source\Repos\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra.Data\bin\Debug\Livraria.Infra.Data.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra.Data\bin\Debug\Livraria.Infra.Data.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.pdb

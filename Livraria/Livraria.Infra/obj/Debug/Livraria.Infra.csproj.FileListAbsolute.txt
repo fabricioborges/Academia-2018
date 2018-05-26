@@ -4,3 +4,9 @@ C:\Users\fabri\Source\Repos\Livraria\Livraria.Infra\obj\Debug\Livraria.Infra.csp
 C:\Users\fabri\Source\Repos\Livraria\Livraria.Infra\obj\Debug\Livraria.Infra.csproj.CoreCompileInputs.cache
 C:\Users\fabri\Source\Repos\Livraria\Livraria.Infra\obj\Debug\Livraria.Infra.dll
 C:\Users\fabri\Source\Repos\Livraria\Livraria.Infra\obj\Debug\Livraria.Infra.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra\bin\Debug\Livraria.Infra.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra\bin\Debug\Livraria.Infra.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra\obj\Debug\Livraria.Infra.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra\obj\Debug\Livraria.Infra.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra\obj\Debug\Livraria.Infra.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra\obj\Debug\Livraria.Infra.pdb
