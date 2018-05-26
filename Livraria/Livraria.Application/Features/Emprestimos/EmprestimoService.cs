@@ -41,7 +41,6 @@ namespace Livraria.Application.Features.Emprestimos
         public Emprestimo Update(Emprestimo objeto)
         {
             objeto.ValidarDisponibilidade();
-            objeto.ValidarNome();
             objeto.Livro.ValidarTitulo();
             return objeto;
         }

@@ -14,7 +14,7 @@ namespace Livraria.Domain.Features.Emprestimos
         public DateTime DataDevolucao { get; set; }
         public double Multa { get; set; }
         public Livro Livro { get; set; }
-
+        public double ValorMulta { get; set; }
         public void ValidarNome()
         {
             if (String.IsNullOrEmpty(Cliente))
@@ -27,5 +27,18 @@ namespace Livraria.Domain.Features.Emprestimos
                 throw new EmprestimoLivroInvalidoException();
         }
 
+        public double ValidarMulta()
+        {
+            
+            if (DataDevolucao.Day < DateTime.Now.Day)
+            {
+                TimeSpan data = DateTime.Now - DataDevolucao;
+                int dataAtraso = Convert.ToInt32(data.Days);
+                ValorMulta = 2.50 * dataAtraso;
+               
+            }
+           
+            return ValorMulta;
+        }
     }
 }

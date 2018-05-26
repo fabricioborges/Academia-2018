@@ -1,0 +1,9 @@
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria_Fabricio\bin\Debug\Livraria_Fabricio.dacpac
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria_Fabricio\bin\Debug\Livraria_Fabricio.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria_Fabricio\bin\Debug\Livraria_Fabricio.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria_Fabricio\obj\Debug\Model.xml
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria_Fabricio\obj\Debug\refactor.xml
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria_Fabricio\obj\Debug\postdeploy.sql
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria_Fabricio\obj\Debug\predeploy.sql
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria_Fabricio\obj\Debug\Livraria_Fabricio.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria_Fabricio\obj\Debug\Livraria_Fabricio.pdb

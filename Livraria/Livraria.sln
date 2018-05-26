@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livraria.Tests.Domain", "Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livraria.Tests.Infra", "Livraria.Tests.Infra\Livraria.Tests.Infra.csproj", "{4ED9FDFA-AC79-4F39-A13F-FF3A6B2FFC69}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Livraria_Fabricio", "Livraria_Fabricio\Livraria_Fabricio.sqlproj", "{7FD78329-53AF-433F-9E4E-10DD9B3FCE0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,12 @@ Global
 		{4ED9FDFA-AC79-4F39-A13F-FF3A6B2FFC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4ED9FDFA-AC79-4F39-A13F-FF3A6B2FFC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4ED9FDFA-AC79-4F39-A13F-FF3A6B2FFC69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD78329-53AF-433F-9E4E-10DD9B3FCE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD78329-53AF-433F-9E4E-10DD9B3FCE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD78329-53AF-433F-9E4E-10DD9B3FCE0D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7FD78329-53AF-433F-9E4E-10DD9B3FCE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD78329-53AF-433F-9E4E-10DD9B3FCE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD78329-53AF-433F-9E4E-10DD9B3FCE0D}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -75,6 +83,7 @@ Global
 		{CE5CE3CB-4DE8-4C6F-959B-2CF28EEE85DD} = {35F58CAD-0041-40A0-B521-94DB513026BF}
 		{94DCB7D6-EC1B-49D2-BAA7-BDD2F56D1458} = {35F58CAD-0041-40A0-B521-94DB513026BF}
 		{4ED9FDFA-AC79-4F39-A13F-FF3A6B2FFC69} = {35F58CAD-0041-40A0-B521-94DB513026BF}
+		{7FD78329-53AF-433F-9E4E-10DD9B3FCE0D} = {ADD324AF-6744-4B44-A9FC-23A49C5E358B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B9A7DC12-947B-47DC-9D00-BC5CD21D68C4}

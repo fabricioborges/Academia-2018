@@ -62,5 +62,16 @@ namespace Livraria.Test.Domain.Features.Emprestimos
             Action comparison = _emprestimo.ValidarDisponibilidade;
             comparison.Should().Throw<EmprestimoLivroInvalidoException>();
         }
+
+        [Test]
+        public void Emprestimo_deve_gerar_multa_atraso()
+        {
+            _emprestimo.DataDevolucao = DateTime.Now.AddDays(-2);
+
+            _emprestimo.ValidarMulta();
+
+            double obtido = _emprestimo.ValorMulta;
+            obtido.Should().Be(5.00);
+        }
     }
 }
