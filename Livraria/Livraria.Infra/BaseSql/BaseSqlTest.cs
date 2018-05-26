@@ -18,7 +18,7 @@ namespace Livraria.Infra.BaseSql
             Db.Update(RECREATE_LIVRO_TABLE);
             Db.Update(INSERT_LIVRO);
             Db.Update(RECREATE_EMPRESTIMO_TABLE);
-            Db.Update(INSERT_EMPRESTIMO1);
+            Db.Update(INSERT_EMPRESTIMO);
         }
 
 
