@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Features\Emprestimos\EmprestimoService.cs" />
+    <Compile Include="Features\Emprestimos\IEmprestimoService.cs" />
     <Compile Include="Features\Livros\ILivroService.cs" />
     <Compile Include="Features\Livros\LivroService.cs" />
     <Compile Include="Interfaces\IService.cs" />

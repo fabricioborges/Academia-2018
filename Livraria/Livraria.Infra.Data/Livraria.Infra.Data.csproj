@@ -40,11 +40,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Features\Livros\LivroSqlRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Features\Emprestimos\" />
-    <Folder Include="Features\Livros\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Livraria.Domain\Livraria.Domain.csproj">
+      <Project>{339780B5-DB86-4515-AE97-2B2A7399606F}</Project>
+      <Name>Livraria.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Livraria.Infra\Livraria.Infra.csproj">
+      <Project>{7E0B00A3-178A-4CEF-9D78-75237712869F}</Project>
+      <Name>Livraria.Infra</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

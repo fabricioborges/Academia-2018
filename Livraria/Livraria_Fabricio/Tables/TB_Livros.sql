@@ -5,5 +5,6 @@
     [Autor] VARCHAR(150) NOT NULL, 
     [Volume] INT NOT NULL, 
     [DataPublicacao] DATETIME NOT NULL, 
-    [Disponibilidade] BIT NOT NULL
+    [Disponibilidade] BIT NOT NULL, 
+    [Tema] VARCHAR(150) NOT NULL
 )

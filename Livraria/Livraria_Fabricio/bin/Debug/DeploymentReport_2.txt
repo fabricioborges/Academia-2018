@@ -1,0 +1,17 @@
+﻿** Destaques
+     Tabelas que serão recriadas
+       Nenhum
+     Índices clusterizados que serão removidos
+       Nenhum
+     Índices clusterizados que serão criados
+       Nenhum
+     Possíveis problemas de dados
+       Nenhum
+
+** Ações do usuário
+     Criar
+       [dbo].[TB_Emprestimos] (Tabela)
+       [dbo].[TB_Livros] (Tabela)
+       [dbo].[FK_livro_emprestimo] (Chave Estrangeira)
+
+** Ações de suporte

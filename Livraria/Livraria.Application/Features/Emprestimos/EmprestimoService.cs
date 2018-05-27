@@ -7,7 +7,7 @@ using Livraria.Domain.Features.Emprestimos;
 
 namespace Livraria.Application.Features.Emprestimos
 {
-    public class EmprestimoService : IEmprestimoRepository
+    public class EmprestimoService : IEmprestimoService
     {
         private IEmprestimoRepository _emprestimoRepository;
 

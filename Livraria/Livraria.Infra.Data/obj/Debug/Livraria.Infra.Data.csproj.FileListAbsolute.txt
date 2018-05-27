@@ -10,3 +10,7 @@ C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra.Data\obj\De
 C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.csproj.CoreCompileInputs.cache
 C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.dll
 C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra.Data\bin\Debug\Livraria.Domain.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra.Data\bin\Debug\Livraria.Domain.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra.Data\bin\Debug\Livraria.Infra.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\Livraria\Livraria.Infra.Data\bin\Debug\Livraria.Infra.pdb
