@@ -9,7 +9,7 @@ namespace Livraria.Domain.Features.Emprestimos
 {
     public class Emprestimo
     {
-        public int Id { get; set; }
+        public long Id { get; set; }
         public string Cliente { get; set; }
         public DateTime DataDevolucao { get; set; }
         public double Multa { get; set; }
