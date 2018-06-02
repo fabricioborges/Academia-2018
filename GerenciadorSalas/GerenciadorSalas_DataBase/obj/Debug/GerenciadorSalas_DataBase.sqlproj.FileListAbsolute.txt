@@ -1,9 +1,5 @@
 C:\Users\fabri\Desktop\Academia-NDD\Academia\GerenciadorSalas\GerenciadorSalas_DataBase\bin\Debug\GerenciadorSalas_DataBase.dacpac
 C:\Users\fabri\Desktop\Academia-NDD\Academia\GerenciadorSalas\GerenciadorSalas_DataBase\bin\Debug\GerenciadorSalas_DataBase.dll
 C:\Users\fabri\Desktop\Academia-NDD\Academia\GerenciadorSalas\GerenciadorSalas_DataBase\bin\Debug\GerenciadorSalas_DataBase.pdb
-C:\Users\fabri\Desktop\Academia-NDD\Academia\GerenciadorSalas\GerenciadorSalas_DataBase\obj\Debug\Model.xml
-C:\Users\fabri\Desktop\Academia-NDD\Academia\GerenciadorSalas\GerenciadorSalas_DataBase\obj\Debug\refactor.xml
-C:\Users\fabri\Desktop\Academia-NDD\Academia\GerenciadorSalas\GerenciadorSalas_DataBase\obj\Debug\postdeploy.sql
-C:\Users\fabri\Desktop\Academia-NDD\Academia\GerenciadorSalas\GerenciadorSalas_DataBase\obj\Debug\predeploy.sql
 C:\Users\fabri\Desktop\Academia-NDD\Academia\GerenciadorSalas\GerenciadorSalas_DataBase\obj\Debug\GerenciadorSalas_DataBase.dll
 C:\Users\fabri\Desktop\Academia-NDD\Academia\GerenciadorSalas\GerenciadorSalas_DataBase\obj\Debug\GerenciadorSalas_DataBase.pdb
