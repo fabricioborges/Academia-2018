@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0">
+  <Operation Name="Rename Refactor" Key="189b8150-a7d9-4e01-872d-d06c02e68f5f" ChangeDateTime="06/02/2018 15:15:10" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[TBSalaConferencia].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[TBSalaConferencia]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_conferencia" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="4969b170-b2c8-4aa0-8a20-cc541ae3ff9d" ChangeDateTime="06/02/2018 15:15:25" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[TBUsuario].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[TBUsuario]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_usuario" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="538551b4-488e-4e80-8815-4edf7ef2d37c" ChangeDateTime="06/02/2018 15:17:48" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[TBSalaTreinamento].[Id_conferencia]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[TBSalaTreinamento]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_treinamento" />
+  </Operation>
+</Operations>

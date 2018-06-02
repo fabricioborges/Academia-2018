@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Presentation", "1.Presentation", "{AA822651-2704-43AE-8722-625DB0376D45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Application", "2.Application", "{E4BC1ED2-12C8-4EBC-A39E-AF18C8376610}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Domain", "3.Domain", "{0DE5B105-FE76-4A7C-8F5D-A214F2A52690}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Infra", "4.Infra", "{CCA9E104-3557-4837-9569-FBCBC39B6947}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Test", "5.Test", "{21589D7E-4B46-4F80-B484-CCD35217CE5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.Persist", "6.Persist", "{E577DDFC-2BA7-4369-BF52-5CDBC75C66F7}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "GerenciadorSalas_DataBase", "GerenciadorSalas_DataBase\GerenciadorSalas_DataBase.sqlproj", "{AF089429-C20C-4CFB-8777-AF55E2AC3C2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF089429-C20C-4CFB-8777-AF55E2AC3C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF089429-C20C-4CFB-8777-AF55E2AC3C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF089429-C20C-4CFB-8777-AF55E2AC3C2A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AF089429-C20C-4CFB-8777-AF55E2AC3C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF089429-C20C-4CFB-8777-AF55E2AC3C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF089429-C20C-4CFB-8777-AF55E2AC3C2A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AF089429-C20C-4CFB-8777-AF55E2AC3C2A} = {E577DDFC-2BA7-4369-BF52-5CDBC75C66F7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06B41860-46A7-4F43-9B42-F14F2901B3F9}
+	EndGlobalSection
+EndGlobal
