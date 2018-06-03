@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Features\Salas\ISalaService.cs" />
+    <Compile Include="Features\Salas\SalaService.cs" />
     <Compile Include="Features\Usuarios\IUsuarioService.cs" />
     <Compile Include="Features\Usuarios\UsuarioService.cs" />
     <Compile Include="Interfaces\IService.cs" />

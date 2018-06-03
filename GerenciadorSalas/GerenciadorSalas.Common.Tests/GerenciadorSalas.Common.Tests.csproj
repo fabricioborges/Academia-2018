@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Base\BaseSqlTests.cs" />
+    <Compile Include="Features\Salas\ObjectMother.cs" />
     <Compile Include="Features\Usuarios\ObjectMother.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
