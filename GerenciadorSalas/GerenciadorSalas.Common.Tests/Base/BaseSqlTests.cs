@@ -9,8 +9,8 @@ namespace GerenciadorSalas.Common.Tests.Base
 {
     public static class BaseSqlTests
     {
-        private const string DELETE_DATABASE = "truncate table TBSalaTreinamento; truncate table TBSalaReuniao; truncate table TBSalaConferencia; DELETE FROM TBUsuario DBCC CHECKIDENT('TBUsuario', RESEED, 0)";
-        private const string RECREATE_DATABASE = "insert into TBUsuario (Nome, Setor) values ('testenome', 'testesetor'); insert into TBSalaConferencia (QuantidadeLugar, Usuario_id, Data_ocupada) values (5, 1, GETDATE());insert into TBSalaReuniao(QuantidadeLugar, Usuario_id, Data_ocupada) values (3, 1, GETDATE()); insert into TBSalaTreinamento(QuantidadeLugar, Usuario_id, Data_ocupada) values (30, 1, GETDATE())";
+        private const string DELETE_DATABASE = "truncate table TBSala; DELETE FROM TBUsuario DBCC CHECKIDENT('TBUsuario', RESEED, 0)";
+        private const string RECREATE_DATABASE = "insert into TBUsuario (Nome, Setor) values ('testenome', 'testesetor'); insert into TBSala (Nome_sala , Quantidade_lugar, Usuario_id, data_inicio, data_final) values ('nomesala', 5, 1, GETDATE(), GETDATE())";
 
         public static void SeedDatabase()
         {

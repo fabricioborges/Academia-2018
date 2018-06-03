@@ -8,7 +8,7 @@ namespace GerenciadorSalas.Domain.Usuarios
 {
     public class Usuario
     {
-        public int Id { get; set; }
+        public long Id { get; set; }
         public string Nome { get; set; }
         public string Setor { get; set; }
 

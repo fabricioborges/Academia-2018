@@ -60,10 +60,8 @@
     <Folder Include="Tables" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="Tables\TBSalaReuniao.sql" />
-    <Build Include="Tables\TBSalaTreinamento.sql" />
-    <Build Include="Tables\TBSalaConferencia.sql" />
     <Build Include="Tables\TBUsuario.sql" />
+    <Build Include="Tables\TBSala.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="GerenciadorSalas_DataBase.refactorlog" />

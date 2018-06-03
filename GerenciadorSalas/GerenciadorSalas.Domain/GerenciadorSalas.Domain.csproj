@@ -41,10 +41,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Exceptions\BusinessException.cs" />
+    <Compile Include="Interfaces\IRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SalaConferencias\SalaConferencia.cs" />
-    <Compile Include="SalasReunioes\SalaReuniao.cs" />
-    <Compile Include="SalaTreinamentos\SalaTreinamento.cs" />
+    <Compile Include="Usuarios\IUsuarioRepository.cs" />
     <Compile Include="Usuarios\NomeInvalidoException.cs" />
     <Compile Include="Usuarios\SetorInvalidoException.cs" />
     <Compile Include="Usuarios\Usuario.cs" />

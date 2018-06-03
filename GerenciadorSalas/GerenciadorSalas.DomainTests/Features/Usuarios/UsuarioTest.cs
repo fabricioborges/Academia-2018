@@ -24,12 +24,14 @@ namespace GerenciadorSalas.DomainTests.Features.Usuarios
         public void Usuario_deve_ter_um_nome_valido_Ok()
         {
             _usuario.Nome.Should().Be("Usuario");
+            _usuario.Validar();
         }
 
         [Test]
         public void Usuario_deve_ter_um_setor_valido_Ok()
         {
             _usuario.Setor.Should().Be("Desenvolvimento");
+            _usuario.Validar();
         }
 
         [Test]

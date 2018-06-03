@@ -3,12 +3,11 @@ using System.Collections.Generic;
 using System.Configuration;
 using System.Data;
 using System.Data.Common;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Diagnostics.CodeAnalysis;
 
 namespace GerenciadorSalas.Infra.Dbs
 {
+    [ExcludeFromCodeCoverage]
     public static class Db
     {
         private static readonly string dataProvider = ConfigurationManager.AppSettings.Get("DataProvider");

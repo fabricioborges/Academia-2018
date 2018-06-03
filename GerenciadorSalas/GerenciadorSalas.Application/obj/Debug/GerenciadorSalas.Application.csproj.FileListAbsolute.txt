@@ -1,0 +1,8 @@
+C:\Users\fabri\Desktop\Academia-NDD\Academia\GerenciadorSalas\GerenciadorSalas.Application\bin\Debug\GerenciadorSalas.Application.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\GerenciadorSalas\GerenciadorSalas.Application\bin\Debug\GerenciadorSalas.Application.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\GerenciadorSalas\GerenciadorSalas.Application\bin\Debug\GerenciadorSalas.Domain.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\GerenciadorSalas\GerenciadorSalas.Application\bin\Debug\GerenciadorSalas.Domain.pdb
+C:\Users\fabri\Desktop\Academia-NDD\Academia\GerenciadorSalas\GerenciadorSalas.Application\obj\Debug\GerenciadorSalas.Application.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Desktop\Academia-NDD\Academia\GerenciadorSalas\GerenciadorSalas.Application\obj\Debug\GerenciadorSalas.Application.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\Academia-NDD\Academia\GerenciadorSalas\GerenciadorSalas.Application\obj\Debug\GerenciadorSalas.Application.dll
+C:\Users\fabri\Desktop\Academia-NDD\Academia\GerenciadorSalas\GerenciadorSalas.Application\obj\Debug\GerenciadorSalas.Application.pdb

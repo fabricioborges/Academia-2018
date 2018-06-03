@@ -62,9 +62,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Base\BaseSqlTests.cs" />
-    <Compile Include="Features\SalaConferencias\ObjectMother.cs" />
-    <Compile Include="Features\SalasReunioes\ObjectMother.cs" />
-    <Compile Include="Features\SalaTreinamentos\ObjectMother.cs" />
     <Compile Include="Features\Usuarios\ObjectMother.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
