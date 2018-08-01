@@ -1,0 +1,5 @@
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Domain\bin\Debug\Domain.dll
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Domain\bin\Debug\Domain.pdb
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Domain\obj\Debug\Domain.dll
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Domain\obj\Debug\Domain.pdb

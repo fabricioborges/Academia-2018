@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Features\Base\Entidade.cs" />
     <Compile Include="Features\Clientes\Cliente.cs" />
     <Compile Include="Features\Clientes\IClienteRepository.cs" />
     <Compile Include="Features\Exceptions\BusinessException.cs" />

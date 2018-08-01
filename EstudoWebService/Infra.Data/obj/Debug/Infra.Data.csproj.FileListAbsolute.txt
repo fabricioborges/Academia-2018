@@ -1,0 +1,13 @@
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Infra.Data\bin\Debug\Infra.Data.dll.config
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Infra.Data\bin\Debug\Infra.Data.dll
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Infra.Data\bin\Debug\Infra.Data.pdb
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Infra.Data\bin\Debug\Domain.dll
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Infra.Data\bin\Debug\Domain.pdb
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Infra.Data\obj\Debug\Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Infra.Data\obj\Debug\Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Infra.Data\obj\Debug\Infra.Data.dll
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Infra.Data\obj\Debug\Infra.Data.pdb

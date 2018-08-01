@@ -1,6 +1,7 @@
 ﻿using Aplication.Features.Lojas;
 using Domain.Features.Lojas;
 using EstudoWebService.Controllers.Comum;
+using Infra.Data.Features.Clientes;
 using Infra.Data.Features.Contexto;
 using Infra.Data.Features.Lojas;
 using System;
@@ -25,8 +26,9 @@ namespace EstudoWebService.Controllers.Lojas
         public LojaController() : base()
         {
             var contexto = new WebContexto();
-            var _repository = new LojaRepository();
-            _lojaService = new LojaService();
+            var _repositoryLoja = new LojaRepository(contexto);
+            var _repositoryCliente = new ClienteRepositorio(contexto);
+            _lojaService = new LojaService(_repositoryLoja, _repositoryCliente);
         }
 
         [HttpGet]

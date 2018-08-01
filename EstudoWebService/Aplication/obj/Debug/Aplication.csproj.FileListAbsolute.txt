@@ -1,0 +1,13 @@
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Aplication\bin\Debug\Aplication.dll.config
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Aplication\bin\Debug\Aplication.dll
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Aplication\bin\Debug\Aplication.pdb
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Aplication\bin\Debug\Domain.dll
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Aplication\bin\Debug\EntityFramework.dll
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Aplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Aplication\bin\Debug\Domain.pdb
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Aplication\bin\Debug\EntityFramework.xml
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Aplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Aplication\obj\Debug\Aplication.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Aplication\obj\Debug\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Aplication\obj\Debug\Aplication.dll
+C:\Users\fabri\Desktop\EstudoWebService\Academia-2018\EstudoWebService\Aplication\obj\Debug\Aplication.pdb

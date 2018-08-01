@@ -9,29 +9,42 @@ namespace Aplication.Features.Clientes
 {
     public class ClienteService : IClienteService
     {
+        IClienteRepository _clienteRepository;
+
+        public ClienteService(IClienteRepository clienteRepository)
+        {
+            _clienteRepository = clienteRepository;
+        }
         public int Add(Cliente cliente)
         {
-            throw new NotImplementedException();
+            cliente.Validar();
+            var novoCliente = _clienteRepository.Adicionar(cliente);
+            return novoCliente.Id;
         }
 
         public IQueryable<Cliente> GetAll()
         {
-            throw new NotImplementedException();
+            return _clienteRepository.BuscarTudo();
         }
 
         public Cliente GetById(int id)
         {
-            throw new NotImplementedException();
+            return _clienteRepository.BuscarPorId(id);
         }
 
         public bool Remove(Cliente cmd)
         {
-            throw new NotImplementedException();
+            return _clienteRepository.Deletar(cmd.Id);
         }
 
         public bool Update(Cliente cliente)
         {
-            throw new NotImplementedException();
+            cliente.Validar();
+
+            if (cliente == null)
+                throw new Exception();
+
+            return _clienteRepository.Editar(cliente);
         }
     }
 }

@@ -19,8 +19,8 @@ namespace EstudoWebService.Controllers.Clientes
         public ClienteController()
         {
             var contexto = new WebContexto();
-            var repositorio = new ClienteRepositorio();
-            _clienteService = new ClienteService();
+            var repositorio = new ClienteRepositorio(contexto);
+            _clienteService = new ClienteService(repositorio);
         }
 
         [HttpGet]
